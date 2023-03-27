@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-using-html-css-sass-and-javascript-KdVzY9wA49#comment-6421da9e964e1ba9ab74793a)
+- Live Site URL: [Github Pages](https://taco-neko.github.io/frontend-mentor-interactive-rating-component/)
 
 ## My process
 
