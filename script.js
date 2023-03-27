@@ -67,7 +67,7 @@ submitBtn.addEventListener("blur", resetTabIndexes)
 function generateThanksHTML(rating) {
   return `
   <div class="container thanks-state">
-    <img class="thanks-image" src="/images/illustration-thank-you.svg" alt="">
+    <img class="thanks-image" src="images/illustration-thank-you.svg" alt="">
     <p class="selected">You selected ${rating} out of 5</p>
     <h1>Thank you!</h1>
     <p>We appreciate you taking the time to give a rating. If you ever need more support, don't hesitate to get in touch!</p>
